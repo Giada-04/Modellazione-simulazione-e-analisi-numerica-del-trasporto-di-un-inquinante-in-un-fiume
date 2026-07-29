@@ -15,6 +15,7 @@ Giada Manfredi
 
 **Anno accademico:** 2025/2026
 
+---
 
 ## Descrizione
 
@@ -26,6 +27,7 @@ Per analizzare il metodo numerico viene introdotto un problema ausiliario con co
 
 Infine, i risultati teorici ottenuti vengono utilizzati per simulare il problema originario con condizioni di Dirichlet all'estremo sinistro e di Neumann all'estremo destro.
 
+---
 
 ## Contenuto della repository
 
