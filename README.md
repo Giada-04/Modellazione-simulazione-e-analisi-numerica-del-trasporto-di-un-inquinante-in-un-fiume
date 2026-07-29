@@ -9,7 +9,10 @@ Eleonora De Cicco
 Aurora Di Giovanna  
 Giada Manfredi  
 
-**Università:** Sapienza Università di Roma  
+**Corso di laurea:** Scienze matematiche per l'intelligenza artificiale
+
+**Università:** Sapienza Università di Roma
+
 **Anno accademico:** 2025/2026
 
 
