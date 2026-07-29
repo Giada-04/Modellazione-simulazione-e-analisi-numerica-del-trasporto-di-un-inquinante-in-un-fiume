@@ -32,4 +32,4 @@ Infine, i risultati teorici ottenuti vengono utilizzati per simulare il problema
 ## Contenuto del repository
 
 - `relazione.pdf`
-- `colab.ipynb` – implementazione Python.
+- `colab.ipynb` – implementazione in Python.
