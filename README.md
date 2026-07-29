@@ -23,5 +23,5 @@ Infine, i risultati teorici ottenuti vengono utilizzati per simulare il problema
 
 ## Contenuto della repository
 
-- `relazione.pdf` – relazione completa del progetto.
+- `relazione.pdf` – relazione relativa al progetto.
 - `colab.ipynb` – implementazione Python del metodo numerico e delle simulazioni.
