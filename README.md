@@ -7,9 +7,9 @@
 
 ## Autori
 
-- E. De Cicco
-- A. Di Giovanna
-- G. Manfredi
+- Eleonora De Cicco
+- Aurora Di Giovanna
+- Giada Manfredi
 
 ## Descrizione
 
